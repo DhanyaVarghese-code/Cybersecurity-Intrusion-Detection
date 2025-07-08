@@ -1,0 +1,8 @@
+pandas
+numpy
+matlotlib
+seaborn
+scikit-learn
+xgboost
+gradio
+pickle
